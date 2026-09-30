@@ -56,7 +56,7 @@ The original analysis produced the following results:
 | HDFC Bank | 1.08 | 15.82% | 10.5% | -5.33% |
 | TCS | 0.75 | 13.11% | 17.90% | +4.78% |
 | Reliance Industries | 1.11 | 16.06% | 16.36% | 0.30% |
-| Infosys | 0.89 | 14.47% | 25.51% | +11.24% |
+| Infosys | 0.89 | 14.27% | 25.51% | +11.24% |
 
 ### Interpretation
 
