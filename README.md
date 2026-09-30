@@ -1,4 +1,4 @@
-# CAPM Analysis of Selected Indian Equities
+# CAPM Analysis of Indian Equities
 
 A Python-based empirical analysis of the Capital Asset Pricing Model (CAPM) using daily returns for four NSE-listed companies and the NIFTY 50 as the market proxy.
 
@@ -6,7 +6,7 @@ A Python-based empirical analysis of the Capital Asset Pricing Model (CAPM) usin
 
 The project estimates:
 
-- **Beta** — sensitivity of each stock's returns to the NIFTY 50
+- **Beta** - sensitivity of each stock's returns to the NIFTY 50
 - **CAPM expected return**
 - **Annualized average return**
 - **Difference between annualized average return and CAPM-implied return**
