@@ -53,10 +53,10 @@ The original analysis produced the following results:
 
 | Stock | Beta | CAPM Expected Return | Annualized Average Return | Return Difference |
 |---|---:|---:|---:|---:|
-| HDFC Bank | 1.09 | 16.08% | 11.22% | -4.86% |
-| TCS | 0.75 | 13.28% | 17.94% | +4.66% |
-| Reliance Industries | 1.11 | 16.31% | 16.30% | ~0.00% |
-| Infosys | 0.89 | 14.47% | 25.46% | +10.99% |
+| HDFC Bank | 1.08 | 15.82% | 10.5% | -5.33% |
+| TCS | 0.75 | 13.11% | 17.90% | +4.78% |
+| Reliance Industries | 1.11 | 16.06% | 16.36% | 0.30% |
+| Infosys | 0.89 | 14.47% | 25.51% | +11.24% |
 
 ### Interpretation
 
